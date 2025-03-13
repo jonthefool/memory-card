@@ -1,2 +1,2 @@
-# memory-card
+# Jogo da Memória
 Testando algumas funções que aprendi.
