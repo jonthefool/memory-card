@@ -85,7 +85,6 @@ function resetarTabuleiro() {
     [primeiraCarta, segundaCarta, bloqueioTabuleiro] = [null, null, false];
 }
 
-// Função para revelar as cartas temporariamente
 function revelarCartasTemporariamente() {
     const todasCartas = document.querySelectorAll('.card');
     todasCartas.forEach(carta => carta.classList.add('flipped'));
